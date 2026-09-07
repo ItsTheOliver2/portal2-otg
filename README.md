@@ -1,1 +1,1 @@
-hey!! so this project is made with python (a lot). use the .sh to install and this is made for ubuntu (but use distrobox to get around this)
+hey!! so this is kinda a port for portal 2 to run on a mobile device. there are 3 versions for different distros
